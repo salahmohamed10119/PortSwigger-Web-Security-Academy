@@ -6,9 +6,9 @@
 
 ## 🎯 About Me
 
-I am a Web Security learner focused on building strong practical skills in penetration testing and vulnerability research.  
-My main focus is understanding how real-world web applications fail and how attackers exploit those weaknesses.
+I am a Web Security enthusiast focused on building practical skills in penetration testing and vulnerability research.
 
+My main focus is understanding how real-world web applications fail, how security flaws are discovered, and how they can be exploited and mitigated.
 ---
 
 ## 🏆 Bug Bounty Experience
